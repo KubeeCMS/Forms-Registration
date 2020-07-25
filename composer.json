@@ -1,8 +1,8 @@
 {
-    "name": "kubeecms/forms-webhooks",
-    "description": "Integrates Forms with third party services using custom webhooks.",
-    "keywords": ["kubee", "kubeecms", "forms", "webhooks", "forms-webhooks"],
-    "homepage": "https://github.com/kubeecms/forms-wbhooks",
+    "name": "kubeecms/forms-registration",
+    "description": "Allows KCMS users to be automatically created upon submitting a Form.",
+    "keywords": ["kubee", "kubeecms", "forms", "registration", "forms-registration"],
+    "homepage": "https://github.com/kubeecms/forms-registration",
     "authors": [
       {
         "name": "Kubee CMS",
