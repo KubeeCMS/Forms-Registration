@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-webhooks",
+    "description": "Integrates Forms with third party services using custom webhooks.",
+    "keywords": ["kubee", "kubeecms", "forms", "webhooks", "forms-webhooks"],
+    "homepage": "https://github.com/kubeecms/forms-wbhooks",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
